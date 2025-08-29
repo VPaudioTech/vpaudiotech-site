@@ -138,8 +138,8 @@ export default function App() {
       return "text-xs px-2 py-1 rounded-md bg-emerald-100 text-emerald-700 border border-emerald-200";
     if (t === "Rentals")
       return "text-xs px-2 py-1 rounded-md bg-sky-100 text-sky-700 border border-sky-200";
-    if (t === "Sales/Install")
-      return "text-xs px-2 py-1 rounded-md bg-zinc-100 text-zinc-700 border border-zinc-200";
+    if (t === "Sales")
+      return "text-xs px-2 py-1 rounded-md bg-purple-100 text-zinc-700 border border-zinc-200";
     if (t === "New")
       return "text-xs px-2 py-1 rounded-md bg-amber-100 text-amber-700 border border-amber-200";
     return "text-xs px-2 py-1 rounded-md bg-zinc-100 text-zinc-700 border border-zinc-200";
