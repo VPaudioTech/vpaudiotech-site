@@ -219,11 +219,12 @@ export default function App() {
           </h1>
           {/* Explainer line */}
           <p
-            className="mt-5 text-xl sm:text-2xl tracking-wide uppercase text-zinc-100"
+            className="mt-5 text-3xl sm:text-4xl tracking-wider uppercase text-zinc-100 font-bold"
             style={txtShadow}
           >
             Audio • Lighting • Video
           </p>
+
           {/* Main tagline */}
           <p className="mt-4 text-lg max-w-2xl mx-auto" style={txtShadow}>
             Great production. Smooth execution. Happy audience.
