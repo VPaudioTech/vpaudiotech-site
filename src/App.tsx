@@ -43,7 +43,7 @@ const SERVICES = [
   {
     title: "Custom Hardware",
     desc: "Products desgined by VPaudio Technologies, Inc.",
-    tags: ["Sales"],
+    tags: ["New", "Sales"],
   },
   {
     title: "Software Development",
