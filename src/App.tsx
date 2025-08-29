@@ -219,7 +219,7 @@ export default function App() {
           </h1>
           {/* Explainer line */}
           <p
-            className="mt-5 text-3xl sm:text-4xl tracking-wider uppercase text-zinc-100 font-bold"
+            className="mt-5 text-2xl sm:text-3xl tracking-wide uppercase text-zinc-100 font-semibold"
             style={txtShadow}
           >
             Audio • Lighting • Video
