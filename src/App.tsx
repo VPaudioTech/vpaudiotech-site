@@ -552,14 +552,14 @@ export default function App() {
                   County • LA • SD
                 </li>
               </ul>
-              <div className="mt-6 flex gap-3">
-                {/*<a
+              {/*<div className="mt-6 flex gap-3">
+                <a
                   href="#services"
                   className={`px-4 py-2 rounded-xl border border-zinc-300 transition ${focusRing}`}
                 >
                   View Services
-                </a>*/}
-              </div>
+                </a>
+              </div>*/}
             </div>
           </div>
         </div>
