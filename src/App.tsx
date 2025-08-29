@@ -553,12 +553,12 @@ export default function App() {
                 </li>
               </ul>
               <div className="mt-6 flex gap-3">
-                <a
+                {/*<a
                   href="#services"
                   className={`px-4 py-2 rounded-xl border border-zinc-300 transition ${focusRing}`}
                 >
                   View Services
-                </a>
+                </a>*/}
               </div>
             </div>
           </div>
