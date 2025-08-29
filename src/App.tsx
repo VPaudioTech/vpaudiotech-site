@@ -36,14 +36,14 @@ const SERVICES = [
     tags: ["Production", "Rentals", "Sales"],
   },
   {
-    title: "Teleprompters",
-    desc: "Presidential and camera-mounted prompters with experienced operators for panels and keynotes.",
-    tags: ["Production", "Rentals", "Sales"],
-  },
-  {
     title: "Consultation",
     desc: "Show design, AV system planning, training, and vendor-neutral equipment recommendations.",
     tags: [],
+  },
+  {
+    title: "Custom Hardware",
+    desc: "Products desgined by VPaudio Technologies, Inc.",
+    tags: ["Sales"],
   },
   {
     title: "Software Development",
@@ -222,7 +222,7 @@ export default function App() {
             className="mt-5 text-xl sm:text-2xl tracking-wide uppercase text-zinc-100"
             style={txtShadow}
           >
-            Audio • Lighting • Video • Teleprompters
+            Audio • Lighting • Video
           </p>
           {/* Main tagline */}
           <p className="mt-4 text-lg max-w-2xl mx-auto" style={txtShadow}>
@@ -247,7 +247,7 @@ export default function App() {
             </a>
           </div>
           <div className="mt-8 text-sm" style={txtShadow}>
-            Orange County • Los Angeles • San Diego • Insured
+            Orange County • Los Angeles • San Diego
           </div>
         </div>
       </section>
